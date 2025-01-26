@@ -82,13 +82,13 @@ const routes = {
 
 
 async function doRouting(event,product_id){
-    const pathname = window.location.pathname;
+    let pathname = window.location.pathname;
     if(pathname.length === 0) pathname = "/";
     console.log("PATHNAME -> "+pathname);
-    const route_path_location = await routes[pathname];
-
-
+    
+    
     try {
+        const route_path_location = await routes[pathname];
         
         const response = await fetch(route_path_location.src)
         const data = await response.text();
