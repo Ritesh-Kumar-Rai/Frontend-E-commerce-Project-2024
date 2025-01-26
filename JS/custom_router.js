@@ -48,7 +48,7 @@ function handleUrlBar(event,product_id){
 
 const routes = {
     "/" : {
-        src : "/templates/home_page.html",
+        src : "./templates/home_page.html",
         title : "Vanilla JS - Ecommerce project",
         desc : ""
     },
@@ -58,22 +58,22 @@ const routes = {
         desc : ""
     },
     "/product" : {
-        src : "/templates/product.html",
+        src : "./templates/product.html",
         title : "Product - Ecommerce project",
         desc : ""
     },
     "/products" : {
-        src : "/templates/home_page.html",
+        src : "./templates/home_page.html",
         title : "Vanilla JS - Ecommerce project",
         desc : ""
     },
     "/contact" : {
-        src : "/templates/contact.html",
+        src : "./templates/contact.html",
         title : "Contact - Ecommerce project",
         desc : ""
     },
     "/about" : {
-        src : "/templates/about.html",
+        src : "./templates/about.html",
         title : "About - Ecommerce project",
         desc : ""
     }
