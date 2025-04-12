@@ -167,7 +167,7 @@ To run this project locally, follow these steps:
 ---
 
 ## **Demo Video**
- Check out the demo video showcasing the project's functionality: [Demo Video Link]('https:www.google.com')
+ Check out the demo video showcasing the project's functionality: [Demo Video Link](https://www.linkedin.com/posts/ritesh-kumar-rai-bb6901296_showcasing-my-latest-project-custom-frontend-activity-7315411061157838848-uMyS?utm_source=share&utm_medium=member_android&rcm=ACoAAEeuWXoBZGm1lXRgekFYbxupflEu8HA5hyA)
 
 ## **Future Enhancements**
   1. Add **lazy loading** for images and other resources to improve performance.
